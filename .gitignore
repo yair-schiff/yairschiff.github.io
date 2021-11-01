@@ -6,3 +6,4 @@ vendor
 
 *.pdf
 *.docx
+.DS_Store
