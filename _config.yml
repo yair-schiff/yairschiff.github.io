@@ -58,5 +58,9 @@ github_url: https://github.com/yair-schiff
 # google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
-theme: jekyll-theme-prologue
+# theme: jekyll-theme-prologue
+remote_theme: yair-schiff/jekyll-theme-prologue
 collections: [sections]
+
+plugins:
+  - jekyll-remote-theme
