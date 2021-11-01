@@ -4,6 +4,5 @@ _site
 .jekyll-metadata
 vendor
 
-*.pdf
 *.docx
 .DS_Store
