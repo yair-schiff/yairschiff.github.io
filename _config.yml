@@ -59,6 +59,7 @@ github_url: https://github.com/yair-schiff
 
 # The following settings are NECESSARY for the Prologue theme to run:
 # theme: jekyll-theme-prologue
+markdown: kramdown
 remote_theme: yair-schiff/jekyll-theme-prologue
 collections: [sections]
 
