@@ -11,16 +11,17 @@ My research interests include AI for discovery & social good, Generative modelin
 
 <div align="left">
 {% for r in site.data.research %}
-  <h3>{{ r.type }}</h3>
+  <h4>{{ r.type }}</h4>
   <ul>
+    <font size="4">
     {% for pub in r.content %}
     <li style="margin: 30px 0">
-      <b>{{ pub.title }}</b>
+      <b style="font-weight:400">{{ pub.title }}</b>
       <br>
       {% for author in pub.authors %}
-        {% if author contains "Yair Schiff" %}<b style="font-weight:900">{{ author }}</b>{% else %}{{ author }}{% endif %}{% if forloop.last %}{% else %},{% endif %}
+        {% if author contains "Yair Schiff" %}<b style="font-weight:600">{{ author }}</b>{% else %}{{ author }}{% endif %}{% if forloop.last %}{% else %},{% endif %}
       {% endfor %}
-      {%if pub.author_comments %}<font size="-0.5">({{ pub.author_comments }})</font>{% endif %}
+      {%if pub.author_comments %}({{ pub.author_comments }}){% endif %}
       <br>
       {% if pub.venue %}
         <i>
@@ -31,8 +32,8 @@ My research interests include AI for discovery & social good, Generative modelin
           {% endif %}
           {% if pub.venue_comments %}, {{ pub.venue_comments }}{% endif %}
         </i>
-        &ndash;
-        <!-- <br> -->
+        <!-- &ndash; -->
+        <br>
       {% endif %}
       {% if pub.url %}[<a href="{{ pub.url }}" target="_blank">Paper</a>]{% endif %}
       {% if pub.code %}, [<a href="{{ pub.code }}" target="_blank">Code</a>]{% endif %}
@@ -40,6 +41,7 @@ My research interests include AI for discovery & social good, Generative modelin
       {% if pub.video %}, [<a href="{{ pub.video }}" target="_blank">Video</a>]{% endif %}
     </li>
     {% endfor %}
+    </font>
   </ul>
 {% endfor %}
 </div>
