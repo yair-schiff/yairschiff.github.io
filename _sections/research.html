@@ -18,16 +18,9 @@ My research interests include AI for discovery & social good, Generative modelin
       <b>{{ pub.title }}</b>
       <br>
       {% for author in pub.authors %}
-        {% if author contains "Yair Schiff" %}
-          <b style="font-weight:900">{{ author }}</b>
-        {% else %}
-          {{ author }}
-        {% endif %}
-        {% if forloop.last %}
-          {%if pub.author_comments %}<font size="-0.5">({{ pub.author_comments }})</font>{% endif %}
-        {% else %},
-        {% endif %}
+        {% if author contains "Yair Schiff" %}<b style="font-weight:900">{{ author }}</b>{% else %}{{ author }}{% endif %}{% if forloop.last %}{% else %},{% endif %}
       {% endfor %}
+      {%if pub.author_comments %}<font size="-0.5">({{ pub.author_comments }})</font>{% endif %}
       <br>
       {% if pub.venue %}
         <i>
