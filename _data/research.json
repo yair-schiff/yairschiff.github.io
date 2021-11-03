@@ -3,13 +3,14 @@
     "type": "Publications",
     "content": [
       {
-      "title": "Predicting Deep Neural Network Generalization with Perturbation Response Curves",
+        "title": "Predicting Deep Neural Network Generalization with Perturbation Response Curves",
         "authors": ["Yair Schiff", "Brian Quanz", "Payel Das", "Pin-Yu Chen"],
         "venue": "NeurIPS 2021",
-        "url": "https://arxiv.org/abs/2106.04765"
+        "url": "https://arxiv.org/abs/2106.04765",
+        "thumbnail": "assets/pub_thumbnails/pr_curves.png"
       },
       {
-      "title": "Tabular Transformers for Modeling Multivariate Time Series",
+        "title": "Tabular Transformers for Modeling Multivariate Time Series",
         "authors": ["Inkit Padhi", "Yair Schiff", "Igor Melnyk", "Mattia Rigotti", "Youssef Mroueh", "Pierre Dognin", "Jarret Ross","Ravi Nair", "Erik Altman"],
         "venue": "ICASSP 2021",
         "url": "https://ieeexplore.ieee.org/document/9414142",
