@@ -15,7 +15,15 @@
         "venue": "ICASSP 2021",
         "url": "https://ieeexplore.ieee.org/document/9414142",
         "code": "https://github.com/IBM/TabFormer"
-      }
+      },
+      {
+        "title": "Image Captioning as an Assistive Technology: Lessons Learned from VizWiz 2020 Challenge",
+        "authors": ["Pierre Dognin*", "Igor Melnyk*", "Youssef Mroueh*", "Inkit Padhi*", "Mattia Rigotti*", "Jarret Ross*", "Yair Schiff*", "Richard Young", "Brian Belgodere"],
+        "author_comments": "*equal contribution",
+        "venue": "Journal of AI Research",
+        "url": "https://arxiv.org/abs/2012.11696",
+        "video": "https://ivc.ischool.utexas.edu/~yz9244/VizWiz_workshop/videos/MMTeam-oral.mp4"
+      },
     ],
   },
   {
@@ -64,13 +72,6 @@
         "authors": ["Yair Schiff*", "Vijil Chenthamarakshan*", "Samuel Hoffman*", "Karthikeyan Natesan Ramamurthy*", "Payel Das*"],
         "author_comments": "*equal contribution",
         "url": "https://arxiv.org/abs/2106.04464",
-      },
-      {
-        "title": "Image Captioning as an Assistive Technology: Lessons Learned from VizWiz 2020 Challenge",
-        "authors": ["Pierre Dognin*", "Igor Melnyk*", "Youssef Mroueh*", "Inkit Padhi*", "Mattia Rigotti*", "Jarret Ross*", "Yair Schiff*", "Richard Young", "Brian Belgodere"],
-        "author_comments": "*equal contribution",
-        "url": "https://arxiv.org/abs/2012.11696",
-        "video": "https://ivc.ischool.utexas.edu/~yz9244/VizWiz_workshop/videos/MMTeam-oral.mp4"
       },
     ]
   }
