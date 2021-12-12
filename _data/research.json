@@ -7,7 +7,9 @@
         "authors": ["Yair Schiff", "Brian Quanz", "Payel Das", "Pin-Yu Chen"],
         "venue": "NeurIPS 2021",
         "url": "https://proceedings.neurips.cc/paper/2021/hash/b0dd033cbe58aa5ea27747271bfd84e3-Abstract.html",
-        "thumbnail": "assets/pub_thumbnails/pr_curves.png"
+        "thumbnail": "assets/pub_thumbnails/pr_curves.png",
+        "slides": "assets/pub_content/pr_curves_slides.pdf",
+        "poster": "assets/pub_content/pr_curves_poster.png"
       },
       {
         "title": "Tabular Transformers for Modeling Multivariate Time Series",
@@ -22,7 +24,8 @@
         "author_comments": "*equal contribution",
         "venue": "Journal of AI Research",
         "url": "https://arxiv.org/abs/2012.11696",
-        "video": "https://ivc.ischool.utexas.edu/~yz9244/VizWiz_workshop/videos/MMTeam-oral.mp4"
+        "video": "https://ivc.ischool.utexas.edu/~yz9244/VizWiz_workshop/videos/MMTeam-oral.mp4",
+        "slides": "assets/pub_content/vizwiz_slides.pdf"
       },
     ],
   },
@@ -35,7 +38,8 @@
         "venue": "OTML NeurIPS Workshop 2021",
         "venue_url": "https://otml2021.github.io",
         "venue_comments": "Spotlight presentation",
-        "url": "https://arxiv.org/abs/2106.00774"
+        "url": "https://arxiv.org/abs/2106.00774",
+        "slides": "assets/pub_content/jkoicnn_slides.pdf"
       },
       {
         "title": "Gi and Pal Scores: Deep Neural Network Generalization Statistics",
@@ -51,7 +55,8 @@
         "venue_url": "https://tda-in-ml.github.io/",
         "venue_comments": "Spotlight presentation",
         "url": "https://arxiv.org/abs/2010.08548",
-        "video": "https://slideslive.com/38941579/characterizing-the-latent-space-of-molecular-deep-generative-models-with-persistent-homology-metrics?ref=account-folder-62106-folders"
+        "video": "https://slideslive.com/38941579/characterizing-the-latent-space-of-molecular-deep-generative-models-with-persistent-homology-metrics?ref=account-folder-62106-folders",
+        "slides": "assets/pub_content/tda_workshop_slides.pdf"
       },
       {
         "title": "Alleviating Noisy Data in Image Captioning with Cooperative Distillation",
@@ -60,7 +65,8 @@
         "venue": "VizWiz CVPR Workshop 2020",
         "venue_url": "https://vizwiz.org/workshops/2020-workshop",
         "url": "https://arxiv.org/abs/2012.11691",
-        "video": "https://ivc.ischool.utexas.edu/~yz9244/VizWiz_workshop/videos/103-poster.mp4"
+        "video": "https://ivc.ischool.utexas.edu/~yz9244/VizWiz_workshop/videos/103-poster.mp4",
+        "slides": "assets/pub_content/alleviating_slides.pdf"
       },
     ]
   },
