@@ -3,6 +3,13 @@
     "type": "Publications",
     "content": [
       {
+        "title": "Augmenting Molecular Deep Generative Models with Topological Data Analysis Representations",
+        "authors": ["Yair Schiff*", "Vijil Chenthamarakshan*", "Samuel Hoffman*", "Karthikeyan Natesan Ramamurthy*", "Payel Das*"],
+        "author_comments": "*equal contribution",
+        "venue": "ICASSP 2022",
+        "url": "https://arxiv.org/abs/2106.04464",
+      },
+      {
         "title": "Predicting Deep Neural Network Generalization with Perturbation Response Curves",
         "authors": ["Yair Schiff", "Brian Quanz", "Payel Das", "Pin-Yu Chen"],
         "venue": "NeurIPS 2021",
@@ -70,16 +77,4 @@
       },
     ]
   },
-  {
-    "type": "Preprints",
-    "content": [
-      {
-        "title": "Augmenting Molecular Deep Generative Models with Topological Data Analysis Representations",
-        "authors": ["Yair Schiff*", "Vijil Chenthamarakshan*", "Samuel Hoffman*", "Karthikeyan Natesan Ramamurthy*", "Payel Das*"],
-        "author_comments": "*equal contribution",
-        "venue": "Under review",
-        "url": "https://arxiv.org/abs/2106.04464",
-      },
-    ]
-  }
 ]
