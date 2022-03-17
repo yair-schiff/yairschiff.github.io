@@ -7,7 +7,7 @@
         "authors": ["Yair Schiff*", "Vijil Chenthamarakshan*", "Samuel Hoffman*", "Karthikeyan Natesan Ramamurthy*", "Payel Das*"],
         "author_comments": "*equal contribution",
         "venue": "ICASSP 2022",
-        "url": "https://arxiv.org/abs/2106.04464",
+        "url": "https://arxiv.org/abs/2106.04464"
       },
       {
         "title": "Predicting Deep Neural Network Generalization with Perturbation Response Curves",
@@ -33,8 +33,8 @@
         "url": "https://jair.org/index.php/jair/article/view/13113",
         "video": "https://ivc.ischool.utexas.edu/~yz9244/VizWiz_workshop/videos/MMTeam-oral.mp4",
         "slides": "assets/pub_content/vizwiz_slides.pdf"
-      },
-    ],
+      }
+    ]
   },
   {
     "type": "Workshops",
@@ -46,6 +46,7 @@
         "venue_url": "https://otml2021.github.io",
         "venue_comments": "Spotlight presentation",
         "url": "https://arxiv.org/abs/2106.00774",
+        "video": "https://slideslive.com/38973475/optimizing-functionals-on-the-space-of-probabilities-with-input-convex-neural-network?ref=speaker-17618-latest",
         "slides": "assets/pub_content/jkoicnn_slides.pdf"
       },
       {
@@ -74,7 +75,7 @@
         "url": "https://arxiv.org/abs/2012.11691",
         "video": "https://ivc.ischool.utexas.edu/~yz9244/VizWiz_workshop/videos/103-poster.mp4",
         "slides": "assets/pub_content/alleviating_slides.pdf"
-      },
+      }
     ]
-  },
+  }
 ]
