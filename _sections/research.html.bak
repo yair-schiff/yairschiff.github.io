@@ -1,0 +1,90 @@
+---
+layout: page
+title: Research
+permalink: /research/
+icon: fa-pencil-alt
+order: 2
+hide: true
+---
+<p>
+My research interests include AI for discovery & social good, Generative modeling, and Optimal transport.
+</p>
+
+<div align="left">
+
+<h3>Publications</h3>
+<ul>
+  <li style="margin: 30px 0">
+    <a href="https://arxiv.org/abs/2106.04765" target="_blank">Predicting Deep Neural Network Generalization with Perturbation Response Curves</a>
+    <br>
+    <b style="font-weight:900">Yair Schiff</b>, Brian Quanz, Payel Das, Pin-Yu Chen
+    <br>
+    <i>NeurIPS 2021</i>
+  </li>
+
+  <li style="margin: 30px 0">
+    <a href="https://ieeexplore.ieee.org/document/9414142" target="_blank">Tabular Transformers for Modeling Multivariate Time Series</a>
+    <br>
+    Inkit Padhi, <b style="font-weight:900">Yair Schiff</b>, Igor Melnyk, Mattia Rigotti, Youssef Mroueh, Pierre Dognin,
+    Jarret Ross, Ravi Nair, Erik Altman
+    <br>
+    <i>ICASSP 2021</i>
+  </li>
+</ul>
+
+<h3>Workshops</h3>
+<ul>
+  <li style="margin: 30px 0">
+    <a href="https://arxiv.org/abs/2106.00774" target="_blank">Optimizing Functionals on the Space of Probabilities with Input Convex Neural Networks</a>
+    <br>
+    David Alvarez-Melis, <b style="font-weight:900">Yair Schiff</b>, Youssef Mroueh
+    <br>
+    <i><a href="https://otml2021.github.io/" target="_blank">OTML NeurIPS Workshop 2021</a>, Spotlight presentation</i>
+  </li>
+
+  <li style="margin: 30px 0">
+    <a href="https://arxiv.org/abs/2104.03469" target="_blank">Gi and Pal Scores: Deep Neural Network Generalization Statistics</a>
+    <br>
+    <b style="font-weight:900">Yair Schiff</b>, Brian Quanz, Payel Das, Pin-Yu Chen
+    <br>
+    <i><a href="https://sites.google.com/connect.hku.hk/robustml-2021/home" target="_blank">RobustML ICLR Workshop 2021</a></i>
+  </li>
+
+  <li style="margin: 30px 0">
+    <a href="https://arxiv.org/abs/2010.08548" target="_blank">Characterizing the Latent Space of Molecular Deep Generative Models</a>
+    <br>
+    <b style="font-weight:900">Yair Schiff</b>, Vijil Chenthamarakshan, Karthikeyan Natesan Ramamurthy, Payel Das
+    <br>
+    <i><a href="https://tda-in-ml.github.io/" target="_blank">TDA & Beyond NeurIPS Workshop 2020</a>, Spotlight presentation</i>
+  </li>
+
+  <li style="margin: 30px 0">
+    <a href="https://arxiv.org/abs/2012.11691" target="_blank">Alleviating Noisy Data in Image Captioning with Cooperative Distillation</a>
+    <br>
+    Pierre Dognin*, Igor Melnyk*, Youssef Mroueh*, Inkit Padhi*, Mattia Rigotti*, Jarret Ross*, <b style="font-weight:900">Yair Schiff*</b>
+    <br>
+    <i><a href="https://vizwiz.org/workshops/2020-workshop/" target="_blank">VizWiz CVPR Workshop 2020</a></i>
+    <br>
+    <font size="-0.5">*equal contribution, alphabetical order</font>
+  </li>
+</ul>
+
+<h3>Preprints</h3>
+<ul>
+  <li style="margin: 30px 0">
+    <a href="https://arxiv.org/abs/2106.04464" target="_blank">Augmenting Molecular Deep Generative Models with Topological Data Analysis Representations</a>
+    <br>
+    <b style="font-weight:900">Yair Schiff*</b>, Vijil Chenthamarakshan*, Samuel Hoffman*, Karthikeyan Natesan Ramamurthy*, Payel Das*
+    <br>
+    <font size="-0.5">*equal contribution</font>
+  </li>
+
+  <li style="margin: 30px 0">
+    <a href="https://arxiv.org/abs/2012.11696" target="_blank">Image Captioning as an Assistive Technology: Lessons Learned from VizWiz 2020 Challenge</a>
+    <br>
+    Pierre Dognin*, Igor Melnyk*, Youssef Mroueh*, Inkit Padhi*, Mattia Rigotti*, Jarret Ross*, <b style="font-weight:900">Yair Schiff*</b>, Richard Young, Brian Belgodere
+    <br>
+    <font size="-0.5">*equal contribution</font>
+  </li>
+</ul>
+</div>

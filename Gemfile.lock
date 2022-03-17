@@ -278,6 +278,8 @@ DEPENDENCIES
   jekyll (~> 3.9.0)
   jekyll-feed (~> 0.12)
   jekyll-remote-theme
+  jekyll-seo-tag
+  jekyll-sitemap
   jekyll-theme-prologue
   tzinfo (~> 1.2)
   tzinfo-data
