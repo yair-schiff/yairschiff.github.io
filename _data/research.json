@@ -3,6 +3,14 @@
     "type": "Publications",
     "content": [
       {
+        "title": "Optimizing Functionals on the Space of Probabilities with Input Convex Neural Networks",
+        "authors": ["David Alvarez-Melis", "Yair Schiff", "Youssef Mroueh"],
+        "venue": "Transactions of Machine Learning Research<br><a href=\"https://otml2021.github.io\" target=\"_blank\">OTML NeurIPS Workshop 2021</a>, Spotlight presentation",
+        "url": "https://arxiv.org/abs/2106.00774",
+        "video": "https://slideslive.com/38973475/optimizing-functionals-on-the-space-of-probabilities-with-input-convex-neural-network?ref=speaker-17618-latest",
+        "slides": "assets/pub_content/jkoicnn_slides.pdf"
+      },
+      {
         "title": "Augmenting Molecular Deep Generative Models with Topological Data Analysis Representations",
         "authors": ["Yair Schiff*", "Vijil Chenthamarakshan*", "Samuel Hoffman*", "Karthikeyan Natesan Ramamurthy*", "Payel Das*"],
         "author_comments": "*equal contribution",
@@ -40,16 +48,6 @@
   {
     "type": "Workshops",
     "content": [
-      {
-        "title": "Optimizing Functionals on the Space of Probabilities with Input Convex Neural Networks",
-        "authors": ["David Alvarez-Melis", "Yair Schiff", "Youssef Mroueh"],
-        "venue": "OTML NeurIPS Workshop 2021",
-        "venue_url": "https://otml2021.github.io",
-        "venue_comments": "Spotlight presentation",
-        "url": "https://arxiv.org/abs/2106.00774",
-        "video": "https://slideslive.com/38973475/optimizing-functionals-on-the-space-of-probabilities-with-input-convex-neural-network?ref=speaker-17618-latest",
-        "slides": "assets/pub_content/jkoicnn_slides.pdf"
-      },
       {
         "title": "Gi and Pal Scores: Deep Neural Network Generalization Statistics",
         "authors": ["Yair Schiff", "Brian Quanz", "Payel Das", "Pin-Yu Chen"],
