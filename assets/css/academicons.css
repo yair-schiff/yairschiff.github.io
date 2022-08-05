@@ -443,6 +443,22 @@
   line-height: 0.75em;
   vertical-align: -.0667em;
 }
+@media screen and (max-width:767px) {
+  .ai-custom {
+    font-size: 2.1vw;
+    margin-left: -0.85vw;
+    margin-right: -0.85vw;
+    vertical-align: -.3vw;
+  }
+}
+@media screen and (min-width: 800px) {
+  .ai-custom {
+    font-size: 2.1vw;
+    margin-left: -0.85vw;
+    margin-right: -0.85vw;
+    vertical-align: -.3vw;
+  }
+}
 .ai-xs {
   font-size: .75em;
 }
