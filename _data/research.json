@@ -3,6 +3,13 @@
     "type": "Publications",
     "content": [
       {
+        "title": "Cloud-Based Real-Time Molecular Screening Platform with MolFormer",
+        "authors": ["Brian Belgodere*", "Vijil Chenthamarakshan*", "Payel Das*", "Pierre Dognin*", "Toby Kurien*", "Igor Melnyk*", "Youssef Mroueh*", "Inkit Padhi*", "Mattia Rigotti*", "Jarret Ross*", "Yair Schiff*", "Richard A. Young*"],
+        "author_comments": "*equal contribution, alphabetical order",
+        "venue": "ECML PKDD 2022 Demo Track",
+        "url": "https://arxiv.org/abs/2208.06665"
+      },
+      {
         "title": "Optimizing Functionals on the Space of Probabilities with Input Convex Neural Networks",
         "authors": ["David Alvarez-Melis", "Yair Schiff", "Youssef Mroueh"],
         "venue": "Transactions of Machine Learning Research<br><a href=\"https://otml2021.github.io\" target=\"_blank\">OTML NeurIPS Workshop 2021</a>, Spotlight presentation",
