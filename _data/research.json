@@ -3,6 +3,19 @@
     "type": "Publications",
     "content": [
       {
+        "title": "Learning with Stochastic Orders",
+        "authors": ["Carles Domingo-Enrich", "Yair Schiff", "Youssef Mroueh"],
+        "venue": "ICLR 2023",
+        "venue_comments": "Notable Top 25% acceptance",
+        "url": "https://openreview.net/forum?id=P3PJokAqGW"
+      },
+      {
+        "title": "Semi Parametric Inducing Point Networks",
+        "authors": ["Richa Rastogi", "Yair Schiff", "Alon Hacohen", "Zhaozhi Li", "Ian Lee", "Yuntian Deng", "Mert R. Sabuncu", "Volodymyr Kuleshov"],
+        "venue": "ICLR 2023",
+        "url": "https://openreview.net/forum?id=FE99-fDrWd5"
+      },
+      {
         "title": "Cloud-Based Real-Time Molecular Screening Platform with MolFormer",
         "authors": ["Brian Belgodere*", "Vijil Chenthamarakshan*", "Payel Das*", "Pierre Dognin*", "Toby Kurien*", "Igor Melnyk*", "Youssef Mroueh*", "Inkit Padhi*", "Mattia Rigotti*", "Jarret Ross*", "Yair Schiff*", "Richard A. Young*"],
         "author_comments": "*equal contribution, alphabetical order",
