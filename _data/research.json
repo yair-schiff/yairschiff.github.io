@@ -9,12 +9,14 @@
         "venue_comments": "Notable Top 25% acceptance",
         "url": "https://openreview.net/forum?id=P3PJokAqGW",
         "code": "https://github.com/yair-schiff/stochastic-orders-ICMN"
+
       },
       {
         "title": "Semi Parametric Inducing Point Networks",
         "authors": ["Richa Rastogi", "Yair Schiff", "Alon Hacohen", "Zhaozhi Li", "Ian Lee", "Yuntian Deng", "Mert R. Sabuncu", "Volodymyr Kuleshov"],
         "venue": "ICLR 2023",
-        "url": "https://openreview.net/forum?id=FE99-fDrWd5"
+        "url": "https://openreview.net/forum?id=FE99-fDrWd5",
+        "code": "https://github.com/RichRast/SPIN"
       },
       {
         "title": "Cloud-Based Real-Time Molecular Screening Platform with MolFormer",
