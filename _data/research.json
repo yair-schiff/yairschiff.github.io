@@ -3,13 +3,22 @@
     "type": "Publications",
     "content": [
       {
+        "title": "InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models",
+        "authors": ["Yingheng Wang", "Yair Schiff", "Aaron Gokaslan", "Weishen Pan", "Fei Wang", "Christopher De Sa", "Volodymyr Kuleshov"],
+        "venue": "ICML 2023",
+      },
+      {
+        "title": "Semi-Autoregressive Energy Flows Using Sample-Based Objectives",
+        "authors": ["Phillip Si", "Zeyi Chen", "Subham Sekhar Sahoo", "Yair Schiff", "Volodymyr Kuleshov"],
+        "venue": "ICML 2023",
+      },
+      {
         "title": "Learning with Stochastic Orders",
         "authors": ["Carles Domingo-Enrich", "Yair Schiff", "Youssef Mroueh"],
         "venue": "ICLR 2023",
         "venue_comments": "Notable Top 25% acceptance",
         "url": "https://openreview.net/forum?id=P3PJokAqGW",
         "code": "https://github.com/yair-schiff/stochastic-orders-ICMN"
-
       },
       {
         "title": "Semi Parametric Inducing Point Networks",
@@ -99,6 +108,16 @@
         "video": "https://ivc.ischool.utexas.edu/~yz9244/VizWiz_workshop/videos/103-poster.mp4",
         "slides": "assets/pub_content/alleviating_slides.pdf"
       }
+    ]
+  },
+  {
+    "type": "Preprints",
+    "content": [
+      {
+        "title": "Auditing and Generating Synthetic Data with Controllable Trust Trade-offs",
+        "authors": ["Brian Belgodere", "Pierre Dognin", "Adam Ivankay", "Igor Melnyk", "Youssef Mroueh", "Aleksandra Mojsilovic", "Jiri Navartil", "Apoorva Nitsure", "Inkit Padhi", "Mattia Rigotti", "Jerret Ross", "Yair Schiff", "Radhika Vedpathak", "Richard A. Young"],
+        "url": "https://arxiv.org/abs/2304.10819"
+      },
     ]
   }
 ]
