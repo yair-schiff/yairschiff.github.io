@@ -21,7 +21,7 @@
         "code": "https://github.com/yair-schiff/stochastic-orders-ICMN"
       },
       {
-        "title": "Semi Parametric Inducing Point Networks",
+        "title": "Semi-Parametric Inducing Point Networks and Neural Processes",
         "authors": ["Richa Rastogi", "Yair Schiff", "Alon Hacohen", "Zhaozhi Li", "Ian Lee", "Yuntian Deng", "Mert R. Sabuncu", "Volodymyr Kuleshov"],
         "venue": "ICLR 2023",
         "url": "https://openreview.net/forum?id=FE99-fDrWd5",
