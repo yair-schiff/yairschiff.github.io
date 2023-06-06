@@ -8,7 +8,7 @@
         "venue": "ICML 2023",
       },
       {
-        "title": "Semi-Autoregressive Energy Flows Using Sample-Based Objectives",
+        "title": "Semi-Autoregressive Energy Flows: Exploring Likelihood-Free Training of Normalizing Flows",
         "authors": ["Phillip Si", "Zeyi Chen", "Subham Sekhar Sahoo", "Yair Schiff", "Volodymyr Kuleshov"],
         "venue": "ICML 2023",
       },
