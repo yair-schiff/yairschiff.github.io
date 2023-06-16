@@ -6,11 +6,13 @@
         "title": "InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models",
         "authors": ["Yingheng Wang", "Yair Schiff", "Aaron Gokaslan", "Weishen Pan", "Fei Wang", "Christopher De Sa", "Volodymyr Kuleshov"],
         "venue": "ICML 2023",
+        "url": "https://arxiv.org/abs/2306.08757"
       },
       {
         "title": "Semi-Autoregressive Energy Flows: Exploring Likelihood-Free Training of Normalizing Flows",
         "authors": ["Phillip Si", "Zeyi Chen", "Subham Sekhar Sahoo", "Yair Schiff", "Volodymyr Kuleshov"],
         "venue": "ICML 2023",
+        "url": "https://openreview.net/forum?id=Skrk3StS2g"
       },
       {
         "title": "Learning with Stochastic Orders",
