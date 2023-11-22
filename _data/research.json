@@ -23,6 +23,7 @@
         "venue_comments": "Notable Top 25% acceptance",
         "url": "https://openreview.net/forum?id=P3PJokAqGW",
         "code": "https://github.com/yair-schiff/stochastic-orders-ICMN",
+        "video": "https://iclr.cc/virtual/2023/poster/11451",
         "slides": "assets/pub_content/Learning_with_Stochastic_Orders.pdf"
       },
       {
@@ -31,6 +32,7 @@
         "venue": "ICLR 2023",
         "url": "https://openreview.net/forum?id=FE99-fDrWd5",
         "code": "https://github.com/RichRast/SPIN",
+        "video": "https://iclr.cc/virtual/2023/poster/11018",
         "slides": "assets/pub_content/SPIN_ICLR_2023_slides.pdf"
       },
       {
