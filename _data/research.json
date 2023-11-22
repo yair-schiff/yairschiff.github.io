@@ -6,13 +6,15 @@
         "title": "InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models",
         "authors": ["Yingheng Wang", "Yair Schiff", "Aaron Gokaslan", "Weishen Pan", "Fei Wang", "Christopher De Sa", "Volodymyr Kuleshov"],
         "venue": "ICML 2023",
-        "url": "https://arxiv.org/abs/2306.08757"
+        "url": "https://arxiv.org/abs/2306.08757",
+        "video": "https://slideslive.com/39003793/infodiffusion-representation-learning-using-information-maximizing-diffusion-models?ref=search-presentations-InfoDiffusion%3A+Representation+Learning+Using+Information+Maximizing+Diffusion+Models"
       },
       {
         "title": "Semi-Autoregressive Energy Flows: Exploring Likelihood-Free Training of Normalizing Flows",
         "authors": ["Phillip Si", "Zeyi Chen", "Subham Sekhar Sahoo", "Yair Schiff", "Volodymyr Kuleshov"],
         "venue": "ICML 2023",
-        "url": "https://openreview.net/forum?id=Skrk3StS2g"
+        "url": "https://openreview.net/forum?id=Skrk3StS2g",
+        "video": "https://slideslive.com/39003791/semiautoregressive-energy-flows-likelihoodfree-training-of-normalizing-flows?ref=search-presentations-Semi-Autoregressive+Energy+Flows%3A+Exploring+Likelihood-Free+Training+of+Normalizing+Flows"
       },
       {
         "title": "Learning with Stochastic Orders",
