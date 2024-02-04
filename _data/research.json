@@ -89,6 +89,13 @@
     "type": "Workshops",
     "content": [
       {
+        "title": "Advancing DNA Language Models: The Genomics Long-Range Benchmark",
+        "authors": ["Evan Trop", "Chia-Hsiang Kao", "Mckinley Polen", "Yair Schiff", "Bernardo P. de Almeida", "Aaron Gokaslan", "Thomas Pierrot", "Volodymyr Kuleshov"],
+        "venue": "LLMs4Bio AAAI Workshop 2024",
+        "venue_url": "https://llms4science-community.github.io/aaai2024.html",
+        "url": "https://llms4science-community.github.io/aaai2024.html#program"
+      },
+      {
         "title": "Gi and Pal Scores: Deep Neural Network Generalization Statistics",
         "authors": ["Yair Schiff", "Brian Quanz", "Payel Das", "Pin-Yu Chen"],
         "venue": "RobustML ICLR Workshop 2021",
@@ -123,7 +130,7 @@
         "title": "Auditing and Generating Synthetic Data with Controllable Trust Trade-offs",
         "authors": ["Brian Belgodere", "Pierre Dognin", "Adam Ivankay", "Igor Melnyk", "Youssef Mroueh", "Aleksandra Mojsilovic", "Jiri Navartil", "Apoorva Nitsure", "Inkit Padhi", "Mattia Rigotti", "Jerret Ross", "Yair Schiff", "Radhika Vedpathak", "Richard A. Young"],
         "url": "https://arxiv.org/abs/2304.10819"
-      },
+      }
     ]
   }
 ]
