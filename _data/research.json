@@ -127,6 +127,11 @@
     "type": "Preprints",
     "content": [
       {
+        "title": "DySLIM: Dynamics Stable Learning by Invariant Measure for Chaotic Systems",
+        "authors": ["Yair Schiff", "Zhong Yi Wan", "Jeffrey B. Parker", "Stephan Hoyer", "Volodymyr Kuleshov", "Fei Sha", "Leonardo Zepeda-Núñez"],
+        "url": "https://arxiv.org/abs/2402.04467"
+      },
+      {
         "title": "Auditing and Generating Synthetic Data with Controllable Trust Trade-offs",
         "authors": ["Brian Belgodere", "Pierre Dognin", "Adam Ivankay", "Igor Melnyk", "Youssef Mroueh", "Aleksandra Mojsilovic", "Jiri Navartil", "Apoorva Nitsure", "Inkit Padhi", "Mattia Rigotti", "Jerret Ross", "Yair Schiff", "Radhika Vedpathak", "Richard A. Young"],
         "url": "https://arxiv.org/abs/2304.10819"
