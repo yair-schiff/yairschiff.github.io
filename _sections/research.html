@@ -35,8 +35,9 @@ order: 2
             {% if pub.venue_comments %}, {{ pub.venue_comments }}{% endif %}
           </i>
           <br>
-        {% endif %}
+        {% endif %}        
         {% if pub.url %}[<a href="{{ pub.url }}" target="_blank">Paper</a>]{% endif %}
+        {% if pub.site %}, [<a href="{{ pub.site }}" target="_blank">Site</a>]{% endif %}
         {% if pub.code %}, [<a href="{{ pub.code }}" target="_blank">Code</a>]{% endif %}
         {% if pub.slides %}, [<a href="{{ pub.slides }}" target="_blank">Slides</a>]{% endif %}
         {% if pub.video %}, [<a href="{{ pub.video }}" target="_blank">Video</a>]{% endif %}

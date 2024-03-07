@@ -91,8 +91,7 @@
       {
         "title": "Advancing DNA Language Models: The Genomics Long-Range Benchmark",
         "authors": ["Evan Trop", "Chia-Hsiang Kao", "Mckinley Polen", "Yair Schiff", "Bernardo P. de Almeida", "Aaron Gokaslan", "Thomas Pierrot", "Volodymyr Kuleshov"],
-        "venue": "LLMs4Bio AAAI Workshop 2024",
-        "venue_url": "https://llms4science-community.github.io/aaai2024.html",
+        "venue": "<a href=\"https://llms4science-community.github.io/aaai2024.html\" target=\"_blank\">LLMs4Bio AAAI Workshop 2024,</a>&nbsp;&nbsp;<a href=\"https://mlgenx.github.io/\" target=\"_blank\">MLGenX ICLR Workshop 2024</a>",
         "url": "https://llms4science-community.github.io/papers/LLMs4Bio24_paper_12.pdf"
       },
       {
@@ -126,6 +125,13 @@
   {
     "type": "Preprints",
     "content": [
+      {
+        "title": "Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling",
+        "authors": ["Yair Schiff", "Chia-Hsiang Kao", "Aaron Gokaslan", "Tri Dao", "Albert Gu", "Volodymyr Kuleshov"],
+        "url": "https://arxiv.org/abs/2403.03234",
+        "code": "https://github.com/kuleshov-group/caduceus",
+        "site": "https://caduceus-dna.github.io/"
+      },
       {
         "title": "DySLIM: Dynamics Stable Learning by Invariant Measure for Chaotic Systems",
         "authors": ["Yair Schiff", "Zhong Yi Wan", "Jeffrey B. Parker", "Stephan Hoyer", "Volodymyr Kuleshov", "Fei Sha", "Leonardo Zepeda-Núñez"],
