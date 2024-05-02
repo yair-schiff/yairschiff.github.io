@@ -3,6 +3,20 @@
     "type": "Publications",
     "content": [
       {
+        "title": "Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling",
+        "authors": ["Yair Schiff", "Chia-Hsiang Kao", "Aaron Gokaslan", "Tri Dao", "Albert Gu", "Volodymyr Kuleshov"],
+        "venue": "ICML 2024",
+        "url": "https://arxiv.org/abs/2403.03234",
+        "code": "https://github.com/kuleshov-group/caduceus",
+        "site": "https://caduceus-dna.github.io/"
+      },
+      {
+        "title": "DySLIM: Dynamics Stable Learning by Invariant Measure for Chaotic Systems",
+        "authors": ["Yair Schiff", "Zhong Yi Wan", "Jeffrey B. Parker", "Stephan Hoyer", "Volodymyr Kuleshov", "Fei Sha", "Leonardo Zepeda-Núñez"],
+        "venue": "ICML 2024",
+        "url": "https://arxiv.org/abs/2402.04467"
+      },
+      {
         "title": "InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models",
         "authors": ["Yingheng Wang", "Yair Schiff", "Aaron Gokaslan", "Weishen Pan", "Fei Wang", "Christopher De Sa", "Volodymyr Kuleshov"],
         "venue": "ICML 2023",
@@ -125,18 +139,6 @@
   {
     "type": "Preprints",
     "content": [
-      {
-        "title": "Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling",
-        "authors": ["Yair Schiff", "Chia-Hsiang Kao", "Aaron Gokaslan", "Tri Dao", "Albert Gu", "Volodymyr Kuleshov"],
-        "url": "https://arxiv.org/abs/2403.03234",
-        "code": "https://github.com/kuleshov-group/caduceus",
-        "site": "https://caduceus-dna.github.io/"
-      },
-      {
-        "title": "DySLIM: Dynamics Stable Learning by Invariant Measure for Chaotic Systems",
-        "authors": ["Yair Schiff", "Zhong Yi Wan", "Jeffrey B. Parker", "Stephan Hoyer", "Volodymyr Kuleshov", "Fei Sha", "Leonardo Zepeda-Núñez"],
-        "url": "https://arxiv.org/abs/2402.04467"
-      },
       {
         "title": "Auditing and Generating Synthetic Data with Controllable Trust Trade-offs",
         "authors": ["Brian Belgodere", "Pierre Dognin", "Adam Ivankay", "Igor Melnyk", "Youssef Mroueh", "Aleksandra Mojsilovic", "Jiri Navartil", "Apoorva Nitsure", "Inkit Padhi", "Mattia Rigotti", "Jerret Ross", "Yair Schiff", "Radhika Vedpathak", "Richard A. Young"],
