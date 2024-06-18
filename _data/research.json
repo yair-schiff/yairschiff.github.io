@@ -105,8 +105,9 @@
       {
         "title": "Simple and Effective Masked Diffusion Language Models",
         "authors": ["Subham Sekhar Sahoo", "Marianne Arriola", "Yair Schiff", "Aaron Gokaslan", "Edgar Marroquin", "Justin T Chiu", "Alexander Rush", "Volodymyr Kuleshov"],
-        "venue": "Structured Probabilistic Inference & Generative Modeling ICML Workshop 2024",
-        "venue_url": "https://spigmworkshop2024.github.io/",
+        "venue": "",
+        "venue": "<a href=\"https://accml.bio\" target=\"_blank\">AccMLBio ICML Workshop 2024</a>, Spotlight presentation<br><a href=\"https://spigmworkshop2024.github.io\" target=\"_blank\">SPIGM ICML Workshop 2024</a>",
+        "venue_url": "",
         "url": "https://arxiv.org/abs/2406.07524",
         "code": "https://github.com/kuleshov-group/mdlm",
         "site": "https://s-sahoo.com/mdlm"
