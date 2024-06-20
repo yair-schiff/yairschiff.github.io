@@ -3,6 +3,69 @@
     "type": "Publications",
     "content": [
       {
+        "title": "Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling",
+        "authors": ["Yair Schiff", "Chia-Hsiang Kao", "Aaron Gokaslan", "Tri Dao", "Albert Gu", "Volodymyr Kuleshov"],
+        "venue": "ICML 2024",
+        "url": "https://arxiv.org/abs/2403.03234",
+        "code": "https://github.com/kuleshov-group/caduceus",
+        "site": "https://caduceus-dna.github.io/"
+      },
+      {
+        "title": "DySLIM: Dynamics Stable Learning by Invariant Measure for Chaotic Systems",
+        "authors": ["Yair Schiff", "Zhong Yi Wan", "Jeffrey B. Parker", "Stephan Hoyer", "Volodymyr Kuleshov", "Fei Sha", "Leonardo Zepeda-Núñez"],
+        "venue": "ICML 2024",
+        "url": "https://arxiv.org/abs/2402.04467"
+      },
+      {
+        "title": "InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models",
+        "authors": ["Yingheng Wang", "Yair Schiff", "Aaron Gokaslan", "Weishen Pan", "Fei Wang", "Christopher De Sa", "Volodymyr Kuleshov"],
+        "venue": "ICML 2023",
+        "url": "https://arxiv.org/abs/2306.08757",
+        "video": "https://slideslive.com/39003793/infodiffusion-representation-learning-using-information-maximizing-diffusion-models?ref=search-presentations-InfoDiffusion%3A+Representation+Learning+Using+Information+Maximizing+Diffusion+Models"
+      },
+      {
+        "title": "Semi-Autoregressive Energy Flows: Exploring Likelihood-Free Training of Normalizing Flows",
+        "authors": ["Phillip Si", "Zeyi Chen", "Subham Sekhar Sahoo", "Yair Schiff", "Volodymyr Kuleshov"],
+        "venue": "ICML 2023",
+        "url": "https://openreview.net/forum?id=Skrk3StS2g",
+        "video": "https://slideslive.com/39003791/semiautoregressive-energy-flows-likelihoodfree-training-of-normalizing-flows?ref=search-presentations-Semi-Autoregressive+Energy+Flows%3A+Exploring+Likelihood-Free+Training+of+Normalizing+Flows"
+      },
+      {
+        "title": "Learning with Stochastic Orders",
+        "authors": ["Carles Domingo-Enrich", "Yair Schiff", "Youssef Mroueh"],
+        "venue": "ICLR 2023",
+        "venue_comments": "Notable Top 25% acceptance",
+        "url": "https://openreview.net/forum?id=P3PJokAqGW",
+        "code": "https://github.com/yair-schiff/stochastic-orders-ICMN",
+        "video": "https://iclr.cc/virtual/2023/poster/11451",
+        "slides": "assets/pub_content/Learning_with_Stochastic_Orders.pdf"
+      },
+      {
+        "title": "Semi-Parametric Inducing Point Networks and Neural Processes",
+        "authors": ["Richa Rastogi", "Yair Schiff", "Alon Hacohen", "Zhaozhi Li", "Ian Lee", "Yuntian Deng", "Mert R. Sabuncu", "Volodymyr Kuleshov"],
+        "venue": "ICLR 2023",
+        "url": "https://openreview.net/forum?id=FE99-fDrWd5",
+        "code": "https://github.com/RichRast/SPIN",
+        "video": "https://iclr.cc/virtual/2023/poster/11018",
+        "slides": "assets/pub_content/SPIN_ICLR_2023_slides.pdf"
+      },
+      {
+        "title": "Cloud-Based Real-Time Molecular Screening Platform with MolFormer",
+        "authors": ["Brian Belgodere*", "Vijil Chenthamarakshan*", "Payel Das*", "Pierre Dognin*", "Toby Kurien*", "Igor Melnyk*", "Youssef Mroueh*", "Inkit Padhi*", "Mattia Rigotti*", "Jarret Ross*", "Yair Schiff*", "Richard A. Young*"],
+        "author_comments": "*equal contribution, alphabetical order",
+        "venue": "ECML PKDD 2022 Demo Track",
+        "url": "https://arxiv.org/abs/2208.06665"
+      },
+      {
+        "title": "Optimizing Functionals on the Space of Probabilities with Input Convex Neural Networks",
+        "authors": ["David Alvarez-Melis", "Yair Schiff", "Youssef Mroueh"],
+        "venue": "Transactions of Machine Learning Research<br><a href=\"https://otml2021.github.io\" target=\"_blank\">OTML NeurIPS Workshop 2021</a>, Spotlight presentation",
+        "url": "https://openreview.net/forum?id=dpOYN7o8Jm",
+        "video": "https://slideslive.com/38973475/optimizing-functionals-on-the-space-of-probabilities-with-input-convex-neural-network?ref=speaker-17618-latest",
+        "slides": "assets/pub_content/jkoicnn_slides.pdf",
+        "code": "https://github.com/dmelis/JKO-ICNN"
+      },
+      {
         "title": "Augmenting Molecular Deep Generative Models with Topological Data Analysis Representations",
         "authors": ["Yair Schiff*", "Vijil Chenthamarakshan*", "Samuel Hoffman*", "Karthikeyan Natesan Ramamurthy*", "Payel Das*"],
         "author_comments": "*equal contribution",
@@ -15,7 +78,11 @@
         "venue": "NeurIPS 2021",
         "url": "https://proceedings.neurips.cc/paper/2021/hash/b0dd033cbe58aa5ea27747271bfd84e3-Abstract.html",
         "thumbnail": "assets/pub_thumbnails/pr_curves.png",
+<<<<<<< HEAD
         "slides": "assets/pub_content/pr_curves_slides.pdf",
+=======
+        "slides": "https://nips.cc/media/neurips-2021/Slides/27240_KkOSRCs.pdf",
+>>>>>>> 51f8770c431c3b2aff54b35b4a52e9d0d582d87d
         "video": "https://slideslive.com/38968160/predicting-deep-neural-network-generalization-with-perturbation-response-curves?ref=speaker-51218-latest",
         "poster": "assets/pub_content/pr_curves_poster.png"
       },
@@ -23,7 +90,7 @@
         "title": "Tabular Transformers for Modeling Multivariate Time Series",
         "authors": ["Inkit Padhi", "Yair Schiff", "Igor Melnyk", "Mattia Rigotti", "Youssef Mroueh", "Pierre Dognin", "Jarret Ross","Ravi Nair", "Erik Altman"],
         "venue": "ICASSP 2021",
-        "url": "https://ieeexplore.ieee.org/document/9414142",
+        "url": "https://arxiv.org/abs/2011.01843",
         "code": "https://github.com/IBM/TabFormer"
       },
       {
@@ -32,7 +99,6 @@
         "author_comments": "*equal contribution",
         "venue": "Journal of AI Research",
         "url": "https://jair.org/index.php/jair/article/view/13113",
-        "video": "https://ivc.ischool.utexas.edu/~yz9244/VizWiz_workshop/videos/MMTeam-oral.mp4",
         "slides": "assets/pub_content/vizwiz_slides.pdf"
       }
     ]
@@ -41,14 +107,20 @@
     "type": "Workshops",
     "content": [
       {
-        "title": "Optimizing Functionals on the Space of Probabilities with Input Convex Neural Networks",
-        "authors": ["David Alvarez-Melis", "Yair Schiff", "Youssef Mroueh"],
-        "venue": "OTML NeurIPS Workshop 2021",
-        "venue_url": "https://otml2021.github.io",
-        "venue_comments": "Spotlight presentation",
-        "url": "https://arxiv.org/abs/2106.00774",
-        "video": "https://slideslive.com/38973475/optimizing-functionals-on-the-space-of-probabilities-with-input-convex-neural-network?ref=speaker-17618-latest",
-        "slides": "assets/pub_content/jkoicnn_slides.pdf"
+        "title": "Simple and Effective Masked Diffusion Language Models",
+        "authors": ["Subham Sekhar Sahoo", "Marianne Arriola", "Yair Schiff", "Aaron Gokaslan", "Edgar Marroquin", "Justin T Chiu", "Alexander Rush", "Volodymyr Kuleshov"],
+        "venue": "",
+        "venue": "<a href=\"https://accml.bio\" target=\"_blank\">AccMLBio ICML Workshop 2024</a>, Spotlight presentation<br><a href=\"https://spigmworkshop2024.github.io\" target=\"_blank\">SPIGM ICML Workshop 2024</a>",
+        "venue_url": "",
+        "url": "https://arxiv.org/abs/2406.07524",
+        "code": "https://github.com/kuleshov-group/mdlm",
+        "site": "https://s-sahoo.com/mdlm"
+      },
+      {
+        "title": "Advancing DNA Language Models: The Genomics Long-Range Benchmark",
+        "authors": ["Evan Trop", "Chia-Hsiang Kao", "Mckinley Polen", "Yair Schiff", "Bernardo P. de Almeida", "Aaron Gokaslan", "Thomas Pierrot", "Volodymyr Kuleshov"],
+        "venue": "<a href=\"https://llms4science-community.github.io/aaai2024.html\" target=\"_blank\">LLMs4Bio AAAI Workshop 2024,</a>&nbsp;&nbsp;<a href=\"https://mlgenx.github.io/\" target=\"_blank\">MLGenX ICLR Workshop 2024</a>",
+        "url": "https://llms4science-community.github.io/papers/LLMs4Bio24_paper_12.pdf"
       },
       {
         "title": "Gi and Pal Scores: Deep Neural Network Generalization Statistics",
@@ -74,8 +146,22 @@
         "venue": "VizWiz CVPR Workshop 2020",
         "venue_url": "https://vizwiz.org/workshops/2020-workshop",
         "url": "https://arxiv.org/abs/2012.11691",
-        "video": "https://ivc.ischool.utexas.edu/~yz9244/VizWiz_workshop/videos/103-poster.mp4",
         "slides": "assets/pub_content/alleviating_slides.pdf"
+      }
+    ]
+  },
+  {
+    "type": "Preprints",
+    "content": [
+      {
+        "title": "Cross-species plant genomes modeling at single nucleotide resolution using a pre-trained DNA language model",
+        "authors": ["Jingjing Zhai", "Aaron Gokaslan", "Yair Schiff", "Ana Berthel", "Zong-Yan Liu", "Zachary R Miller",  "Armin Scheben",  "Michelle C Stitzer", "Cinta Romay", "Edward S. Buckler", "Volodymyr Kuleshov"],
+        "url": "https://www.biorxiv.org/content/10.1101/2024.06.04.596709v1"
+      },
+      {
+        "title": "Auditing and Generating Synthetic Data with Controllable Trust Trade-offs",
+        "authors": ["Brian Belgodere", "Pierre Dognin", "Adam Ivankay", "Igor Melnyk", "Youssef Mroueh", "Aleksandra Mojsilovic", "Jiri Navartil", "Apoorva Nitsure", "Inkit Padhi", "Mattia Rigotti", "Jerret Ross", "Yair Schiff", "Radhika Vedpathak", "Richard A. Young"],
+        "url": "https://arxiv.org/abs/2304.10819"
       }
     ]
   }

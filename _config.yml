@@ -35,8 +35,9 @@ title: Yair Schiff
 description: >- # this means to ignore newlines until "baseurl:"
   Yair Schiff's personal webpage.
 author: Yair Schiff
-email: yairschiff@gmail.com
-avatar: assets/images/nn_icon_filled.png
+email: yairschiff@cs.cornell.edu
+# avatar: assets/images/nn_icon_filled.png
+avatar: assets/images/ctech.svg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -55,6 +56,7 @@ github_url: https://github.com/yair-schiff
 # slack_url:
 # dribbble_url:
 medium_url: https://yairschiff.medium.com
+googlescholar_url: https://scholar.google.com/citations?user=GhFrOdQAAAAJ&hl=en&oi=ao
 
 # Google Analytics Tracking ID goes here:
 # google_analytics:
