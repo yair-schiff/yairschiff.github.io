@@ -8,13 +8,17 @@
         "venue": "ICML 2024",
         "url": "https://arxiv.org/abs/2403.03234",
         "code": "https://github.com/kuleshov-group/caduceus",
-        "site": "https://caduceus-dna.github.io/"
+        "site": "https://caduceus-dna.github.io/",
+        "video": "https://www.youtube.com/watch?v=h0-hUaOc6Mk",
+        "slides": "https://icml.cc/media/icml-2024/Slides/33158.pdf"
       },
       {
         "title": "DySLIM: Dynamics Stable Learning by Invariant Measure for Chaotic Systems",
         "authors": ["Yair Schiff", "Zhong Yi Wan", "Jeffrey B. Parker", "Stephan Hoyer", "Volodymyr Kuleshov", "Fei Sha", "Leonardo Zepeda-Núñez"],
         "venue": "ICML 2024",
-        "url": "https://arxiv.org/abs/2402.04467"
+        "url": "https://arxiv.org/abs/2402.04467",
+        "video": "https://www.youtube.com/watch?v=ZqLlnJv2_rc",
+        "slides": "https://icml.cc/media/icml-2024/Slides/35055.pdf"
       },
       {
         "title": "InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models",
