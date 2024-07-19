@@ -17,6 +17,7 @@
         "authors": ["Yair Schiff", "Zhong Yi Wan", "Jeffrey B. Parker", "Stephan Hoyer", "Volodymyr Kuleshov", "Fei Sha", "Leonardo Zepeda-Núñez"],
         "venue": "ICML 2024",
         "url": "https://arxiv.org/abs/2402.04467",
+        "code": "https://github.com/google-research/swirl-dynamics/tree/main/swirl_dynamics/projects/ergodic",
         "video": "https://www.youtube.com/watch?v=ZqLlnJv2_rc",
         "slides": "https://icml.cc/media/icml-2024/Slides/35055.pdf"
       },
