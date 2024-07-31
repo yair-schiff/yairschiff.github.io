@@ -1,5 +1,48 @@
 ---
 layout: home
-title: Home
-icon: fa-home
+title: About Me
+icon: fa-user
 ---
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <style>
+    .curve {
+      width: 175px;
+      height: 185px;
+      float: left;
+      shape-outside: circle();
+      border-radius: 50%;
+      margin: 15px;
+      border-style: solid;
+    }
+    .wraptext p {
+      text-align: left;
+      padding-left: 215px;
+      margin: 40px 0 0 7px;
+      word-wrap: break-word;
+    }
+    @media only screen and (max-width: 768px) {
+      .curve {
+        width: 120px;
+        height: 130px;
+        float: None;
+      }
+    .wraptext p {
+      padding-left: 10px;
+    }
+  }
+  </style>
+  </head>
+  <body>
+    <div class="wraptext">
+    <img src="assets/images/profile_picture.jpeg" alt="profile_pictures" class="curve">
+    <p>I'm a second year PhD student in the Computer Science department at <a href="https://www.cs.cornell.edu/" target="_blank">Cornell University</a> where I am fortunate to be working with Prof. <a href="https://www.cs.cornell.edu/~kuleshov/" target="_blank"> Volodymyr Kuleshov</a>.
+    <!-- I have also worked as a software engineer at <a href="https://www.ibm.com/cloud/watson-studio" target="_blank">IBM</a> and collaborated with the <a href="https://research.ibm.com/teams/trusted-ai" target="_blank">Trusted AI</a> department in IBM Research. -->
+    <!-- Prior to joining IBM, I completed a MS in Computer Science at Courant Institute at NYU and a BA in Economics at the University of Pennsylvania.</p> -->
+    <!-- I am currently interning at Google as a Student Researcher. -->
+    <p>Here is my full <a style="font-weight:400" href="assets/resume/YSResume2024.pdf" target="_blank">CV</a>.</p>
+    </div>
+  </body>
+</html>
