@@ -83,7 +83,7 @@
         "venue": "NeurIPS 2021",
         "url": "https://proceedings.neurips.cc/paper/2021/hash/b0dd033cbe58aa5ea27747271bfd84e3-Abstract.html",
         "thumbnail": "assets/pub_thumbnails/pr_curves.png",
-        "slides": "https://nips.cc/media/neurips-2021/Slides/27240_KkOSRCs.pdf",
+        "slides": "https://neurips.cc/media/neurips-2021/Slides/27240_KkOSRCs.pdf",
         "video": "https://slideslive.com/38968160/predicting-deep-neural-network-generalization-with-perturbation-response-curves?ref=speaker-51218-latest",
         "poster": "assets/pub_content/pr_curves_poster.png"
       },
