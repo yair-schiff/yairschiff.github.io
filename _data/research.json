@@ -3,6 +3,14 @@
     "type": "Publications",
     "content": [
       {
+        "title": "Simple and Effective Masked Diffusion Language Models",
+        "authors": ["Subham Sekhar Sahoo", "Marianne Arriola", "Yair Schiff", "Aaron Gokaslan", "Edgar Marroquin", "Justin T Chiu", "Alexander Rush", "Volodymyr Kuleshov"],
+        "venue": "NeurIPS 2024",
+        "url": "https://arxiv.org/abs/2406.07524",
+        "code": "https://github.com/kuleshov-group/mdlm",
+        "site": "https://s-sahoo.com/mdlm"
+      },
+      {
         "title": "Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling",
         "authors": ["Yair Schiff", "Chia-Hsiang Kao", "Aaron Gokaslan", "Tri Dao", "Albert Gu", "Volodymyr Kuleshov"],
         "venue": "ICML 2024",
@@ -107,16 +115,6 @@
   {
     "type": "Workshops",
     "content": [
-      {
-        "title": "Simple and Effective Masked Diffusion Language Models",
-        "authors": ["Subham Sekhar Sahoo", "Marianne Arriola", "Yair Schiff", "Aaron Gokaslan", "Edgar Marroquin", "Justin T Chiu", "Alexander Rush", "Volodymyr Kuleshov"],
-        "venue": "",
-        "venue": "<a href=\"https://accml.bio\" target=\"_blank\">AccMLBio ICML Workshop 2024</a>, Spotlight presentation<br><a href=\"https://spigmworkshop2024.github.io\" target=\"_blank\">SPIGM ICML Workshop 2024</a>",
-        "venue_url": "",
-        "url": "https://arxiv.org/abs/2406.07524",
-        "code": "https://github.com/kuleshov-group/mdlm",
-        "site": "https://s-sahoo.com/mdlm"
-      },
       {
         "title": "Advancing DNA Language Models: The Genomics Long-Range Benchmark",
         "authors": ["Evan Trop", "Chia-Hsiang Kao", "Mckinley Polen", "Yair Schiff", "Bernardo P. de Almeida", "Aaron Gokaslan", "Thomas Pierrot", "Volodymyr Kuleshov"],
