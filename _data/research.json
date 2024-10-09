@@ -11,6 +11,12 @@
         "site": "https://s-sahoo.com/mdlm"
       },
       {
+        "title": "Auditing and Generating Synthetic Data with Controllable Trust Trade-offs",
+        "authors": ["Brian Belgodere", "Pierre Dognin", "Adam Ivankay", "Igor Melnyk", "Youssef Mroueh", "Aleksandra Mojsilovic", "Jiri Navartil", "Apoorva Nitsure", "Inkit Padhi", "Mattia Rigotti", "Jerret Ross", "Yair Schiff", "Radhika Vedpathak", "Richard A. Young"],
+        "venue": "IEEE Journal on Emerging and Selected Topics in Circuits and Systems",
+        "url": "https://arxiv.org/abs/2304.10819"
+      },
+      {
         "title": "Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling",
         "authors": ["Yair Schiff", "Chia-Hsiang Kao", "Aaron Gokaslan", "Tri Dao", "Albert Gu", "Volodymyr Kuleshov"],
         "venue": "ICML 2024",
@@ -156,11 +162,6 @@
         "title": "Cross-species plant genomes modeling at single nucleotide resolution using a pre-trained DNA language model",
         "authors": ["Jingjing Zhai", "Aaron Gokaslan", "Yair Schiff", "Ana Berthel", "Zong-Yan Liu", "Zachary R Miller",  "Armin Scheben",  "Michelle C Stitzer", "Cinta Romay", "Edward S. Buckler", "Volodymyr Kuleshov"],
         "url": "https://www.biorxiv.org/content/10.1101/2024.06.04.596709v1"
-      },
-      {
-        "title": "Auditing and Generating Synthetic Data with Controllable Trust Trade-offs",
-        "authors": ["Brian Belgodere", "Pierre Dognin", "Adam Ivankay", "Igor Melnyk", "Youssef Mroueh", "Aleksandra Mojsilovic", "Jiri Navartil", "Apoorva Nitsure", "Inkit Padhi", "Mattia Rigotti", "Jerret Ross", "Yair Schiff", "Radhika Vedpathak", "Richard A. Young"],
-        "url": "https://arxiv.org/abs/2304.10819"
       }
     ]
   }
