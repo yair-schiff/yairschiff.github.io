@@ -159,6 +159,13 @@
     "type": "Preprints",
     "content": [
       {
+        "title": "Simple Guidance Mechanisms for Discrete Diffusion Models",
+        "authors": ["Yair Schiff", "Subham Sekhar Sahoo", "Guanghan Wang", "Hao Phung", "Sam Boshar", "Hugo Dalla-torre", "Bernardo P de Almeida", "Alexander Rush", "Thomas Pierrot", "Volodymyr Kuleshov"],
+        "url": "https://arxiv.org/abs/2412.10193",
+        "code": "https://github.com/kuleshov-group/discrete-diffusion-guidance",
+        "site": "https://discrete-diffusion-guidance.github.io/"
+      },
+      {
         "title": "Cross-species plant genomes modeling at single nucleotide resolution using a pre-trained DNA language model",
         "authors": ["Jingjing Zhai", "Aaron Gokaslan", "Yair Schiff", "Ana Berthel", "Zong-Yan Liu", "Zachary R Miller",  "Armin Scheben",  "Michelle C Stitzer", "Cinta Romay", "Edward S. Buckler", "Volodymyr Kuleshov"],
         "url": "https://www.biorxiv.org/content/10.1101/2024.06.04.596709v1"
